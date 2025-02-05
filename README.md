@@ -33,3 +33,4 @@ As we see, the accuracy of the decision tree is 43%, and the classification erro
 •	There should be increased efforts to ensure adequate keeping of information or updating of the database of contraceptive methods used by women for future analysis.
 •	Efforts should be made to increase awareness and proper documentation of other factors that may affect pregnancy.
 # Thank You
+![Tobi Oyetunji png](https://github.com/user-attachments/assets/9a6fdfd6-eb42-46ba-8832-b8fa691eb18c)
